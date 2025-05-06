@@ -232,7 +232,7 @@ const questions = {
         {
             question: "Who is the Librarian?",
             options: ["Ms.Refling", "Ms. Kllapi", "Mr. Sykes", "Ms.Modi"],
-            answer: "Ms.Kllapi"
+            answer: "Ms. Kllapi"
         }
     ],
     level8: [
